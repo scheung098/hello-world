@@ -1,2 +1,3 @@
 # hello-world
-fist repository
+trying out markdown and github
+
